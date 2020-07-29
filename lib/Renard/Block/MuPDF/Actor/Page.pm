@@ -4,4 +4,6 @@ package Renard::Block::MuPDF::Actor::Page;
 
 use Mu;
 
+extends qw(Renard::Jacquard::Actor);
+
 1;
